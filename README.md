@@ -28,7 +28,7 @@ FreqPrior requires no additional training, introduces no learnable parameters, a
 
 ### Clone the Repository
 ```
-git clone https://github.com/fudan-zvg/FreqPrior.git
+git clone https://github.com/LogosIntelligenceLab/FreqPrior.git
 cd FreqPrior
 cd examples/AnimateDiff
 ```
